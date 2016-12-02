@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  */
 @Controller
 public class NavigationController {
-	
+
 	@RequestMapping(value= "/ships")
     public String ships() {
         return "ships";

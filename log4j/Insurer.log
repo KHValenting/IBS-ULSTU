@@ -1,0 +1,28 @@
+2016-11-18 17:10:54 INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2016-11-18 17:10:54 INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+2016-11-18 17:10:54 INFO : org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Fri Nov 18 17:10:54 SAMT 2016]; root of context hierarchy
+2016-11-18 17:10:54 INFO : org.springframework.web.context.support.XmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Fri Nov 18 17:10:54 SAMT 2016]; root of context hierarchy
+2016-11-18 17:10:54 INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+2016-11-18 17:10:54 INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/applicationContext.xml]
+2016-11-18 17:10:55 INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 632 ms
+2016-11-18 17:10:55 INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 632 ms
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization started
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization started
+2016-11-18 17:10:55 INFO : org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Nov 18 17:10:55 SAMT 2016]; parent: Root WebApplicationContext
+2016-11-18 17:10:55 INFO : org.springframework.web.context.support.XmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Nov 18 17:10:55 SAMT 2016]; parent: Root WebApplicationContext
+2016-11-18 17:10:55 INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+2016-11-18 17:10:55 INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from ServletContext resource [/WEB-INF/dispatcher-servlet.xml]
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/ships]}" onto public java.lang.String ru.ibs.ulstu.webapp.more.controller.navigation.NavigationController.ships()
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/ships]}" onto public java.lang.String ru.ibs.ulstu.webapp.more.controller.navigation.NavigationController.ships()
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/shipDetails]}" onto public java.lang.String ru.ibs.ulstu.webapp.more.controller.navigation.NavigationController.shipDetails()
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/shipDetails]}" onto public java.lang.String ru.ibs.ulstu.webapp.more.controller.navigation.NavigationController.shipDetails()
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Nov 18 17:10:55 SAMT 2016]; parent: Root WebApplicationContext
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Nov 18 17:10:55 SAMT 2016]; parent: Root WebApplicationContext
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Nov 18 17:10:55 SAMT 2016]; parent: Root WebApplicationContext
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: WebApplicationContext for namespace 'dispatcher-servlet': startup date [Fri Nov 18 17:10:55 SAMT 2016]; parent: Root WebApplicationContext
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/app/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2016-11-18 17:10:55 INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/app/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2016-11-18 17:10:56 INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization completed in 905 ms
+2016-11-18 17:10:56 INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization completed in 905 ms
